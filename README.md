@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Sumit Kumar Jha
-- 👀 I’m interested in Coding, web Development, Block Chain Development, web3 development
+- 👋 Hi, I’m Sumit Kumar Jha 
+- 👨‍💻 STARTING MY JOURNEY TOWARDS WEB3
+- 👀 I’m interested in Coding, web Development, Block Chain Development, web development
 -.   I also love to play guitar 🎸 And I am very found of musics..
 - 🌱 I’m currently learning React Js 
 -    I have completed Python, HTML , CSS AND Vanila JavaScript.
