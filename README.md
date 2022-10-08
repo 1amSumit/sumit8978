@@ -2,7 +2,7 @@
 - 👨‍💻 STARTING MY JOURNEY TOWARDS WEB3
 - 👀 I’m interested in Coding, WEB3 Development, Block Chain Development, web development
 -.   I also love to play guitar 🎸 And I am very found of musics..
-- 🌱 I’m currently learning React Js 
+- 🌱 I’m currently learning React Js And BackEnd 
 -    I have completed Python, HTML , CSS AND Vanila JavaScript.
 - 📫 My Instagram id 1am.sumit & My linkdIn id- @1am_sumit
 
